@@ -1,0 +1,17 @@
+tensorflow-gpu
+numpy
+pandas
+spacy
+scikit-learn
+keras
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-2.1.0/pt_core_news_sm-2.1.0.tar.gz#egg=pt_core_news_sm
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-2.1.0/es_core_news_sm-2.1.0.tar.gz#egg=es_core_news_sm
+matplotlib
+unidecode
+tqdm
+gensim
+cython
+imblearn
+keras-metrics
+nltk
+joblib
